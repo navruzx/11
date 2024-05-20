@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+.a {
+    color: white;
+    text-shadow: 0px 0px  10px  green,0px 0px 10px white
+     
+}
+.b {
+    color: white;
+    text-shadow: 0px 0px  10px  green,0px 0px 10px white
+    
+}
